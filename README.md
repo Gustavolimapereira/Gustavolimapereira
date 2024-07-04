@@ -52,10 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gustavolimapereira/Gustavolimapereira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Interesses e Hobbies:</h3>
 
 ###
